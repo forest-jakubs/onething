@@ -23,6 +23,9 @@
 # This Week
 - Complete SQL SKill Path
 
+# Today
+- Finish SQL Multiple Tables Lessons
+
 #
 #
 
