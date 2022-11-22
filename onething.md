@@ -34,7 +34,7 @@
 - Week 3
   - Blockchain with Python Course
 - Week 4
-  - Christmas!
+  - Christmas Time! Yay!
 
 # January One Thing: Python Intermidiate
 - Week 1
